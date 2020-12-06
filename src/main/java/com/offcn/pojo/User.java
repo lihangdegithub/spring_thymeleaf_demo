@@ -3,6 +3,8 @@ package com.offcn.pojo;
 import java.io.Serializable;
 
 public class User implements Serializable {
+    
+    Private String str = "这是Git远程仓库拉取来的项目";
 
     private Long id;
 
